@@ -1,10 +1,16 @@
+body {
+  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
 h1 {
   margin-left: 30px;
+  font-size: 35px;
+  text-decoration: underline;
+  color: rgb(69, 15, 112);
 }
 
 p {
   padding: 0 80px;
-  font-size: 30px;
-  color: green;
-  text-decoration: underline;
+  font-size: 22px;
+  color: #555555;
 }
